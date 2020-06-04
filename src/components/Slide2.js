@@ -212,10 +212,6 @@ const styles = StyleSheet.create({
     height: hp(3.3),
     tintColor: '#6c757d',
   },
-  secondViewStyle: {
-    // alignItems: 'center',
-    // alignSelf: 'center',
-  },
   sourcingTextStyle: {
     fontSize: RFPercentage(2.8),
     fontWeight: 'bold',
